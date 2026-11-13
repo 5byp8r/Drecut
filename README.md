@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/b72f6577-ab48-4fd5-843c-263c42bf8ce9" alt="Logo Drecut" width="320"/>
+</p>
+
 # Drecut: Fragmentos da Verdade
 
 Projeto final da disciplina de Introdução a Algoritmos/Programação, desenvolvido com Python e Pygame.
